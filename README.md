@@ -147,23 +147,33 @@ Load factor was calculated at:
 
 ---
 🔗 Dashboard Previews
-This project focuses on KPI-driven analysis aligned with the business objective. A single integrated dashboard was developed to track and visualize key KPIs. Supporting tools and files were used for data preparation, querying, and presentation.
 
-* Quick View (PDF -no Download needed)
+This project focuses on KPI-driven analysis aligned with the business objective.
+A single integrated dashboard was developed to track and visualize key airline performance KPIs such as Load Factor, Passenger Volume, Carrier Performance, Route Analysis, and Distance Group Trends.
+
+Supporting tools and files were used for data preparation, querying, and presentation.
+
+📄 Quick View (PDF – No Download Needed)
 Tool	View Link
 Power BI	🔗 View Power BI Dashboard (PDF)
 Tableau	🔗 View Tableau Dashboard (PDF)
 Excel	🔗 View Excel Dashboard (PDF)
-* Full Interactive Files (Download)
+📥 Full Interactive Files (Download)
 Tool	View Link
 Power BI	🔗 View Power BI Dashboard
 Tableau	🔗 View Tableau Dashboard
 Excel	🔗 View Excel Dashboard
-Sql	🔗 View Excel Dashboard
-📌 Please replace the placeholder links with shareable Google Drive or OneDrive links.
+SQL	🔗 View SQL Files
+
+📌 Note: Please replace the placeholder links with shareable Google Drive or OneDrive links.
 
 📂 Data Source
-Dataset: 📦 Olist Brazilian E-Commerce Public Dataset - Kaggle
+
+Dataset: Airline Operational & Flight Performance Data
+
+Type: Structured Historical Airline Data
+
+Source: High Clouds Airline Case Study (Internship Dataset)
 
 
 
