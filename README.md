@@ -146,35 +146,35 @@ Load factor was calculated at:
 - Automate data refresh and reporting
 
 ---
-🔗 Dashboard Previews
-
+### 🔗 Dashboard Previews
 This project focuses on KPI-driven analysis aligned with the business objective.
-A single integrated dashboard was developed to track and visualize key airline performance KPIs such as Load Factor, Passenger Volume, Carrier Performance, Route Analysis, and Distance Group Trends.
-
+A single integrated dashboard was developed to track and visualize key KPIs.
 Supporting tools and files were used for data preparation, querying, and presentation.
 
-📄 Quick View (PDF – No Download Needed)
-Tool	View Link
-Power BI	🔗 View Power BI Dashboard (PDF)
-Tableau	🔗 View Tableau Dashboard (PDF)
-Excel	🔗 View Excel Dashboard (PDF)
-📥 Full Interactive Files (Download)
-Tool	View Link
-Power BI	🔗 View Power BI Dashboard
-Tableau	🔗 View Tableau Dashboard
-Excel	🔗 View Excel Dashboard
-SQL	🔗 View SQL Files
+### * Quick View (PDF -no Download needed)
 
-📌 Note: Please replace the placeholder links with shareable Google Drive or OneDrive links.
+| Tool     | View Link |
+|----------|-----------|
+| Power BI | [🔗 View Power BI Dashboard (PDF)]() |
+| Tableau  | [🔗 View Tableau Dashboard (PDF)]() |
+| Excel    | [🔗 View Excel Dashboard (PDF)]() |
 
-📂 Data Source
 
-Dataset: Airline Operational & Flight Performance Data
+### * Full Interactive Files (Download)
 
-Type: Structured Historical Airline Data
+| Tool     | View Link |
+|----------|-----------|
+| Power BI | [🔗 View Power BI Dashboard](https://drive.google.com/file/d/1FeWjprpa1TbdN26IId3qCTeW0VEwWpgu/view?usp=drive_link) |
+| Tableau  | [🔗 View Tableau Dashboard](https://drive.google.com/file/d/1FQRtSZOZY4glsqqavrUQ8TyqoSAtj-no/view?usp=drive_link) |
+| Excel    | [🔗 View Excel Dashboard](https://docs.google.com/spreadsheets/d/1H0A6MeHw25_48znnXHNNO2-v3l1y21At/edit?usp=drive_link&ouid=109755073026266731277&rtpof=true&sd=true) |
+| Sql      | [🔗 View Excel Dashboard]() |    
+> 📌 *Please replace the placeholder links with shareable Google Drive or OneDrive links.*
 
-Source: High Clouds Airline Case Study (Internship Dataset)
+---
 
+### 📂 Data Source
+
+Dataset: [📦 Olist Brazilian E-Commerce Public Dataset - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 
 ---
